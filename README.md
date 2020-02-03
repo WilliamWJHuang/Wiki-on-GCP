@@ -35,5 +35,4 @@ Website: https://gcpminiwiki.appspot.com
 16. git add., git commit and git push to make the Github repo up-to-date
 17. To set continuous delivery, go to Cloud Build under the Tools section in Google Console
 18. Add cloudbuild.yaml at the Cloud Shell under the project folder
-#
 19. Select Github as your source and follow the instruction to complete setup.
