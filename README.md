@@ -10,7 +10,7 @@ This project is a mini wikipedia which returns you the company name, summary and
 
 ## Resources:
 Website: https://gcpminiwiki.appspot.com
-<br>Demo Video: 
+<br>Demo Video: https://youtu.be/N-6p1resWaU
 
 ## A Step-by-Step Tutorial
 1. Create a new project on Google Cloud Platform
