@@ -1,8 +1,8 @@
 setup:
 	# You may want to do this
-	virtualenv --python python3 ~/deploy_env
+	virtualenv --python python3 ~/miniwiki_env
 	# afterward then source
-	source ~/deploy_env/bin/activate
+	source ~/miniwiki_env/bin/activate
 
 install:
 	pip install -r requirements.txt
