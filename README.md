@@ -7,7 +7,7 @@ This project is developed for ECE590.24 with a view to demonstrate the ability t
 This project is a mini wikipedia which returns you the company name, summary and the Wikipedia link in html format once you enter the company name on the url.
 
 ## Resources:
-Website: http://ece590ip1wilhuang.appspot.com/
+Website: https://gcpminiwiki.appspot.com
 <br>Demo Video: 
 
 ## A Step-by-Step Tutorial
