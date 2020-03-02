@@ -1,7 +1,5 @@
 # Continuous Delivery of Flask Application on GCP: mini_wiki
-###
 
-## Goal
 This project is developed for ECE590.24 with a view to demonstrate the ability to build a simple flask application hosted on Google Cloud Platform with continuous delivery capability.
 
 ## Description
